@@ -1,0 +1,8 @@
+# script for 256 color bash prompt used by .bashrc
+
+orange=$(tput setaf 172)
+peach=$(tput setaf 179)
+light_green=$(tput setaf 107)
+light_blue=$(tput setaf 104)
+white=$(tput setaf 255)
+reset=$(tput sgr0)

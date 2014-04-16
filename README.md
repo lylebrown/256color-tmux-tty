@@ -27,6 +27,8 @@ fbterm-bi: found in man page, or https://wiki.archlinux.org/index.php/Fbterm#Bac
 
 fbgrab (framebuffer screenshots): http://manpages.ubuntu.com/manpages/lucid/man1/fbgrab.1.html
 
+vlock (lock terminal without affecting active processes): http://linux.die.net/man/1/vlock
+
 Useful documentation
 ====================
 Tmux cheat sheet: https://gist.github.com/MohamedAlaa/2961058

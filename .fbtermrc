@@ -1,0 +1,10 @@
+# Place in ~/.fbtermrc
+# Configuration for fbterm
+
+# Font availible at http://levien.com/type/myfonts/inconsolata.html
+font-names=Inconsolata
+font-size=14
+
+# 7 is white (reset in .bashrc), 9 isn't an option (no bg fill)
+color-foreground=7
+color-background=9

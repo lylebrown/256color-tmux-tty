@@ -5,6 +5,14 @@ Files I use to run tmux with 256 colors in tty1 (No X session). Only uses ~60MB 
 
 ![Screenshot](screenshot.png)
 
+Requirements
+============
+
+fbterm (Using version 1.7 [recommended])
+
+tmux (Using 1.9a [recommended])
+
+
 References
 ==========
 Wallpaper: http://wallbase.cc/wallpaper/738726
@@ -22,3 +30,10 @@ fbgrab (framebuffer screenshots): http://manpages.ubuntu.com/manpages/lucid/man1
 Useful documentation
 ====================
 Tmux cheat sheet: https://gist.github.com/MohamedAlaa/2961058
+
+Recommended additional programs
+===============================
+
+cmus - C MUSic player: https://cmus.github.io/
+
+wicd-curses - 

@@ -36,4 +36,4 @@ Recommended additional programs
 
 cmus - C MUSic player: https://cmus.github.io/
 
-wicd-curses - 
+wicd-curses - wicd (wireless configuration) front end

@@ -39,3 +39,5 @@ Recommended additional programs
 cmus - C MUSic player: https://cmus.github.io/
 
 wicd-curses - wicd (wireless configuration) front end
+
+vim-orgmode - emacs' org-mode for vim: https://github.com/jceb/vim-orgmode
